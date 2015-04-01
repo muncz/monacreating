@@ -115,6 +115,15 @@ padding: 46px;
 	display: inline;
 }
 
+
+#signature{
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 16px;
+	//font-style: italic;
+	float: right;
+	position:relative; left:-22px; right:0px; bottom: 0px;top: 0px;
+}
+
 #portfolio_left a:visited, #portfolio_left a:link, #portfolio_left a:active{
 	text-decoration: none;
 }
@@ -146,15 +155,60 @@ padding: 46px;
 }
 
 
-
-
-#signature{
-	font-family: 'Open Sans Condensed', sans-serif;
-	font-size: 16px;
-	//font-style: italic;
-	float: right;
-	position:relative; left:-22px; right:0px; bottom: 0px;top: 0px;
+.offer a:visited, .offer a:link, ,offer a:active
+{
+	text-decoration: none;
 }
+
+#offer_mid a:visited, #offer_mid a:link, #offer_mid a:active{
+	text-decoration: none;
+}
+
+
+#offer_mid{
+	font-family: 'Playfair Display SC', serif;
+	float: left;
+	font-size: 31px;
+	width: 33%;
+	text-align: center;
+	margin: 0 0 0 0;
+	display: inline;
+}
+
+
+#offer_left a:visited, #offer_left a:link, #offer_left a:active{
+	text-decoration: none;
+}
+
+#offer_left{
+	font-family: 'Playfair Display SC', serif;
+	float: left;
+	font-size: 31px;
+	width: 33%;
+	text-align: center;
+	margin: 0 0 0 0;
+	display: inline;
+}
+
+
+#offer_right a:visited, #offer_right a:link, #offer_right a:active{
+	text-decoration: none;
+}
+
+#offer_right{
+	font-family: 'Playfair Display SC', serif;
+	font-size: 31px;
+	float: right;
+	text-align: center;
+	width: 33%;
+	margin: 0 0 0 0;
+	display: inline;
+	
+}
+
+
+
+
  
 #contact_container{
 	//clear: left;
