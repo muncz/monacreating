@@ -275,10 +275,40 @@ margin: 16px 0 0 0;
 
 }
 
+.offer_foto
+{
+
+	float: center;
+	text-align: center;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 20px;
+	text-align: justify;
+	margin: 0 0 0 0;
+	display: inline;
+	width: 540px;
+
+	//word-spacing: 12px;
+	//letter-spacing: 10px;
+	margin: 0 0 0 0;
+
+}
+
+.offer_foto h2
+{
+	float: center;
+	text-align: center;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 34px;
+	word-spacing: 12px;
+	letter-spacing: 10px;
+	margin: 0 0 0 0;
+}
+
+
 
 hr { 
 background-color: black; 
-height: 2px; 
+height: 1px; 
 width: 960px;
 border: 0; 
 }
