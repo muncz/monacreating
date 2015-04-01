@@ -155,10 +155,7 @@ padding: 46px;
 }
 
 
-.offer a:visited, .offer a:link, ,offer a:active
-{
-	text-decoration: none;
-}
+
 
 #offer_mid a:visited, #offer_mid a:link, #offer_mid a:active{
 	text-decoration: none;
@@ -263,6 +260,18 @@ margin: 16px 0 0 0;
 	text-align: center;
 } 
 
+
+
+.offer 
+{
+
+	float: center;
+	text-align: center;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 34px;
+	margin: 0 0 0 0;
+
+}
 
 
 hr { 
