@@ -98,6 +98,8 @@ padding: 46px;
 #about_text{
 	//clear: left;
 	float: left;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 20px;
 	width: 60%;
 	//padding: 20px 0;
 	text-align: justify;
@@ -147,11 +149,11 @@ padding: 46px;
 
 
 #signature{
-	font-family: serif;
-	font-size: 14px;
-	font-style: italic;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 16px;
+	//font-style: italic;
 	float: right;
-	position:relative; left:70px; right:0px; bottom: 0px;top: 0px;
+	position:relative; left:-22px; right:0px; bottom: 0px;top: 0px;
 }
  
 #contact_container{
